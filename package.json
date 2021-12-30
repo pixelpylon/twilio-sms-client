@@ -1,6 +1,6 @@
 {
   "name": "twilio-sms-client",
-  "version": "1.9.7",
+  "version": "0.0.1",
   "description": "Twilio Sms Client",
   "main": "dist/index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "Kosolapov Ivan <polzuka@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "common-utils": "https://github.com/pixelpylon/common-utils/tarball/7470d05"
+    "common-utils": "https://github.com/pixelpylon/common-utils/tarball/0.0.17"
   }
 }
